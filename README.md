@@ -18,7 +18,7 @@ LIRI can take in one of the following commands:
 - **node liri.js my-tweets**
     - LIRI will show your last 20 tweets and when they were created at in your terminal/bash window.
 
-- **node liri.js spotify-this-song 'song name here'
+- **node liri.js spotify-this-song 'song name here'**
     - LIRI will show the following information about the song in your terminal/bash window
       * Artist(s)
       * The song's name
@@ -26,7 +26,7 @@ LIRI can take in one of the following commands:
       * The album that the song is from
     - If song name is not provided, LIRI will set default to "The Sign" by Ace of Base.
 
-- **node liri.js movie-this 'movie name here'
+- **node liri.js movie-this 'movie name here'**
     - LIRI will output the following information to your terminal/bash window:
       * Title of the movie.
       * Year the movie came out.

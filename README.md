@@ -24,7 +24,7 @@ LIRI can take in one of the following commands:
       * The song's name
       * A preview link of the song from Spotify
       * The album that the song is from
-      - If song name is not provided, LIRI will set default to "The Sign" by Ace of Base.
+    - If song name is not provided, LIRI will set default to "The Sign" by Ace of Base.
 
 - node liri.js movie-this 'movie name here'
     - LIRI will output the following information to your terminal/bash window:
@@ -36,8 +36,8 @@ LIRI can take in one of the following commands:
       * Language of the movie.
       * Plot of the movie.
       * Actors in the movie.
-      - If movie name is not provided, LIRI will set default to ["Mr. Nobody"](http://www.imdb.com/title/tt0485947/).
+    - If movie name is not provided, LIRI will set default to ["Mr. Nobody"](http://www.imdb.com/title/tt0485947/).
 
-  - node liri.js do-what-it-says
+- node liri.js do-what-it-says
     - LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
     - Feel free to change the text in that document to test out the feature for other commands.

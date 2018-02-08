@@ -2,7 +2,7 @@
 LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
 
 ## **What can LIRI do?**
-LIRI uses Node packages to send API requests to Twitter, Spotify, and OMDB and give you back the data.
+LIRI uses Node packages to send API requests to Twitter, Spotify, and OMDB and give you back the data in the specified format.
 - [Twitter](https://www.npmjs.com/package/twitter)
 - [Spotify](https://www.npmjs.com/package/node-spotify-api)
 - [OMDB](https://www.npmjs.com/package/request)

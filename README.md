@@ -38,6 +38,6 @@ LIRI can take in one of the following commands:
       * Actors in the movie.
     - If movie name is not provided, LIRI will set default to ["Mr. Nobody"](http://www.imdb.com/title/tt0485947/).
 
-- node liri.js do-what-it-says
+- **node liri.js do-what-it-says**
     - LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
     - Feel free to change the text in that document to test out the feature for other commands.

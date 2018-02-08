@@ -15,10 +15,10 @@ LIRI can take in one of the following commands:
 - do-what-it-says
 
 ## **What Each Command Does**
-1. node liri.js my-tweets
+- node liri.js my-tweets
     - LIRI will show your last 20 tweets and when they were created at in your terminal/bash window.
 
-2. node liri.js spotify-this-song '<song name here>'
+- node liri.js spotify-this-song '<song name here>'
     - LIRI will show the following information about the song in your terminal/bash window
       * Artist(s)
       * The song's name
@@ -26,7 +26,7 @@ LIRI can take in one of the following commands:
       * The album that the song is from
       - If song name is not provided, LIRI will set default to "The Sign" by Ace of Base.
 
-3. node liri.js movie-this '<movie name here>'
+- node liri.js movie-this '<movie name here>'
     - LIRI will output the following information to your terminal/bash window:
       * Title of the movie.
       * Year the movie came out.
@@ -38,6 +38,6 @@ LIRI can take in one of the following commands:
       * Actors in the movie.
       - If movie name is not provided, LIRI will set default to ["Mr. Nobody"](http://www.imdb.com/title/tt0485947/).
 
-  4. node liri.js do-what-it-says
+  - node liri.js do-what-it-says
     - LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
     - Feel free to change the text in that document to test out the feature for other commands.
